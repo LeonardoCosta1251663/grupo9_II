@@ -6,3 +6,5 @@ Os 3 estados em que o ficheiro/diretório pode estar são:
 untracked
 unmodified
 modified
+
+H - git status
