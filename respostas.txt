@@ -8,3 +8,5 @@ unmodified
 modified
 
 H - git status
+
+J - o commando efetua uma pesquisa no historico desse ficheiro mencionado .
