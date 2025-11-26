@@ -1,1 +1,4 @@
 F- o README é um ficheiro que atua como a capa do repositorio, um bom README explica o proposito do repositorio e é importante para pessoas conhecerem o projeto em si e perceberem o projeto, ajudando a decidir se querem usar o projeto em questao ou nao.
+
+G - O merge é a junçao de duas ou mais branchs, existe o merge em que junta branches e apenas fica a mais recente, existe outro que junta as duas mantendo o interior das duas branches na mesma,
+
