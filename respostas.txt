@@ -1,0 +1,3 @@
+2 das vantagens dos Sistemas de controlo de Versões são
+Não correr o risco de perder ou corromper devido a poder ir buscar de volta a ultima versão guardada
+Poder recuperar a ultima versão funcional no caso de algum erro de codigo por exemploespos
