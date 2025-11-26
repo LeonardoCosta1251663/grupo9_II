@@ -8,3 +8,5 @@ unmodified
 modified
 
 H - git status
+
+J - O comando "git log ..follow meu_script.py", procura no historico tudo que foi feito ao ficheiro mencionado, todas as açoes etc.
