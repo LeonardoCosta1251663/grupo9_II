@@ -1,0 +1,1 @@
+F- o README é um ficheiro que atua como a capa do repositorio, um bom README explica o proposito do repositorio e é importante para pessoas conhecerem o projeto em si e perceberem o projeto, ajudando a decidir se querem usar o projeto em questao ou nao.
